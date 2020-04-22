@@ -13,6 +13,7 @@ datetime = "^4.3"
 iexfinance = "^0.4.3"
 lxml = "^4.5.0"
 pyyaml = "^5.3.1"
+tqdm = "^4.45.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^4.6"
