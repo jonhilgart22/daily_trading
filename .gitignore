@@ -1,1 +1,2 @@
-data/*
+# TODO: move to s3
+data/price-volume-data-for-all-us-stocks-etfs/*
