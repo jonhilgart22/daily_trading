@@ -1,0 +1,9 @@
+README.rst
+pyproject.toml
+setup.py
+daily_trading/__init__.py
+daily_trading.egg-info/PKG-INFO
+daily_trading.egg-info/SOURCES.txt
+daily_trading.egg-info/dependency_links.txt
+daily_trading.egg-info/requires.txt
+daily_trading.egg-info/top_level.txt

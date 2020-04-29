@@ -1,0 +1,13 @@
+datetime<5.0,>=4.3
+holidays<0.11.0,>=0.10.2
+iexfinance<0.5.0,>=0.4.3
+keras<3.0.0,>=2.3.1
+lxml<5.0.0,>=4.5.0
+numpy<2.0.0,>=1.18.2
+pandas==1.0.1
+pyyaml<6.0.0,>=5.3.1
+requests<3.0.0,>=2.23.0
+sklearn<0.1,>=0.0
+tensorflow-estimator==2.1.0
+tensorflow<3.0.0,>=2.1.0
+tqdm<5.0.0,>=4.45.0
