@@ -19,6 +19,7 @@ holidays = "^0.10.2"
 keras = "^2.3.1"
 tensorflow-estimator = "==2.1.0"
 tensorflow = "^2.1.0"
+filterpy = "^1.4.5"
 
 [tool.poetry.dev-dependencies]
 pytest = "^4.6"
