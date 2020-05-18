@@ -1,6 +1,0 @@
-pred_date_start,stock_pair,first_stock_industry,second_stock_industry,predicted_corr,last_7_day_corr_for_pred_date_start,squarred_diff_7_day_cor
-2020-05-15,frc_cpt,bank,real estate   ,0.8645642190597013,0.964486,0.009984362306281039
-2020-05-15,frc_reg,bank,real estate   ,0.872558650771301,0.972656,0.010019479322612119
-2020-05-15,pei_cpt,real estate   ,real estate   ,0.7684898742976889,0.868565,0.010015030784333375
-2020-05-15,pei_reg,real estate   ,real estate   ,0.7994920911477814,0.899555,0.010012585727967403
-2020-05-15,cpt_reg,real estate   ,real estate   ,0.8275190684892592,0.927717,0.010039625479031115
