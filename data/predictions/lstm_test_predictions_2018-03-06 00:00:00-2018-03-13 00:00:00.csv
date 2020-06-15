@@ -1,0 +1,2 @@
+pred_date_start,stock_pair,first_stock_industry,second_stock_industry,predicted_corr,last_7_day_corr_for_pred_date_start,squarred_diff_7_day_cor,absolute_value_from_0
+2018-03-06,vfh_dlr,etf,real estate   ,99999999,0.867729,9999999626454204.0,99999998
