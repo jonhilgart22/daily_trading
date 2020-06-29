@@ -1,5 +1,4 @@
 README.rst
-pyproject.toml
 setup.py
 daily_trading/__init__.py
 daily_trading.egg-info/PKG-INFO

@@ -2,3 +2,5 @@
 data/price-volume-data-for-all-us-stocks-etfs/*
 
 models/*
+
+daily_trading.egg-info/*
