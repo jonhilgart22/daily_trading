@@ -1,0 +1,2 @@
+pred_date_start,stock_pair,first_stock_industry,second_stock_industry,predicted_corr,last_7_day_corr_for_pred_date_start,squarred_diff_7_day_cor,absolute_value_from_0
+2020-07-10,xrt_vti,etf,etf,0.513694167137146,0.913523,0.15986309558847203,0.51369417
