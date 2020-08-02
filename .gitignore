@@ -4,3 +4,43 @@ data/price-volume-data-for-all-us-stocks-etfs/*
 models/*
 
 daily_trading.egg-info/*
+
+# General
+.virtualenvs
+venv
+.DS_Store
+.idea
+__pycache__
+
+# notebook info
+.ipynb_checkpoints
+
+# mypy cache
+.mypy_cache
+
+# terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+
+# MLflow
+mlruns
+
+# pyenv
+.python-version
+
+# DVC directories
+/data
+/models
+
+/output
+
+# egg
+*.egg-info
+
+# env
+.env
+
+*.pyc
+
+*.vscode
