@@ -1,8 +1,6 @@
 # TODO: move to s3
 data/price-volume-data-for-all-us-stocks-etfs/*
 
-models/*
-
 daily_trading.egg-info/*
 
 # General
@@ -30,7 +28,6 @@ mlruns
 .python-version
 
 # DVC directories
-/data
 /models
 
 /output
