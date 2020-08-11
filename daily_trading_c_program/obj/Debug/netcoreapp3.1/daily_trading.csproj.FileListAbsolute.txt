@@ -1,0 +1,16 @@
+/Users/jonathanhilgart/GitHub/daily_trading/daily_trading/obj/Debug/netcoreapp3.1/daily_trading.csprojAssemblyReference.cache
+/Users/jonathanhilgart/GitHub/daily_trading/daily_trading/obj/Debug/netcoreapp3.1/daily_trading.AssemblyInfoInputs.cache
+/Users/jonathanhilgart/GitHub/daily_trading/daily_trading/obj/Debug/netcoreapp3.1/daily_trading.AssemblyInfo.cs
+/Users/jonathanhilgart/GitHub/daily_trading/daily_trading/obj/Debug/netcoreapp3.1/daily_trading.csproj.CoreCompileInputs.cache
+/Users/jonathanhilgart/GitHub/daily_trading/daily_trading_c_program/obj/Debug/netcoreapp3.1/daily_trading.csprojAssemblyReference.cache
+/Users/jonathanhilgart/GitHub/daily_trading/daily_trading_c_program/obj/Debug/netcoreapp3.1/daily_trading.AssemblyInfoInputs.cache
+/Users/jonathanhilgart/GitHub/daily_trading/daily_trading_c_program/obj/Debug/netcoreapp3.1/daily_trading.AssemblyInfo.cs
+/Users/jonathanhilgart/GitHub/daily_trading/daily_trading_c_program/obj/Debug/netcoreapp3.1/daily_trading.csproj.CoreCompileInputs.cache
+/Users/jonathanhilgart/GitHub/daily_trading/daily_trading_c_program/bin/Debug/netcoreapp3.1/daily_trading.deps.json
+/Users/jonathanhilgart/GitHub/daily_trading/daily_trading_c_program/bin/Debug/netcoreapp3.1/daily_trading.runtimeconfig.json
+/Users/jonathanhilgart/GitHub/daily_trading/daily_trading_c_program/bin/Debug/netcoreapp3.1/daily_trading.runtimeconfig.dev.json
+/Users/jonathanhilgart/GitHub/daily_trading/daily_trading_c_program/bin/Debug/netcoreapp3.1/daily_trading.dll
+/Users/jonathanhilgart/GitHub/daily_trading/daily_trading_c_program/bin/Debug/netcoreapp3.1/daily_trading.pdb
+/Users/jonathanhilgart/GitHub/daily_trading/daily_trading_c_program/obj/Debug/netcoreapp3.1/daily_trading.dll
+/Users/jonathanhilgart/GitHub/daily_trading/daily_trading_c_program/obj/Debug/netcoreapp3.1/daily_trading.pdb
+/Users/jonathanhilgart/GitHub/daily_trading/daily_trading_c_program/obj/Debug/netcoreapp3.1/daily_trading.genruntimeconfig.cache
