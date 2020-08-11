@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "projects": {
+    "/Users/jonathanhilgart/GitHub/daily_trading/daily_trading_c_program/daily_trading.csproj": {
+      "frameworks": {
+        "netcoreapp3.1": {
+          "assetTargetFallback": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json",
+          "warn": true
+        }
+      },
+      "restore": {
+        "configFilePaths": [
+          "/Users/jonathanhilgart/.nuget/NuGet/NuGet.Config"
+        ],
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "outputPath": "/Users/jonathanhilgart/GitHub/daily_trading/daily_trading_c_program/obj/",
+        "packagesPath": "/Users/jonathanhilgart/.nuget/packages/",
+        "projectName": "daily_trading",
+        "projectPath": "/Users/jonathanhilgart/GitHub/daily_trading/daily_trading_c_program/daily_trading.csproj",
+        "projectStyle": "PackageReference",
+        "projectUniqueName": "/Users/jonathanhilgart/GitHub/daily_trading/daily_trading_c_program/daily_trading.csproj",
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "version": "1.0.0"
+    }
+  },
+  "restore": {
+    "/Users/jonathanhilgart/GitHub/daily_trading/daily_trading_c_program/daily_trading.csproj": {}
+  }
+}
