@@ -1,4 +1,3 @@
-pred_date_start,stock_pair,first_stock_industry,second_stock_industry,predicted_corr,last_7_day_corr_for_pred_date_start,squarred_diff_7_day_cor
-2013-03-04,pnc_hafc,bank,bank,14784.3134765625,0.869815,218550206.49459246
-2013-03-04,pnc_pei,bank,real estate   ,15548.2919921875,0.896217,241721515.39031813
-2013-03-04,pnc_vno,bank,real estate,9463.1923828125,-0.24591,89556664.32186995
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d57967ca352cbf94fd7f670a54238130331961b125ade18b72c5becef6254b0
+size 383

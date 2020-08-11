@@ -1,3 +1,3 @@
-pred_date_start,stock_pair,first_stock_industry,second_stock_industry,predicted_corr,last_7_day_corr_for_pred_date_start,squarred_diff_7_day_cor
-2020-05-15,wal_mtb,bank,bank,1.278760313987732,0.974008,0.09287397288087716
-2020-05-15,wal_jpm,bank,bank,0.6778357028961182,0.956929,0.07789306848831568
+version https://git-lfs.github.com/spec/v1
+oid sha256:caa9b700ba7851e02cba37112d9fd1b6670d0b05ed84c273d582613b222ffb94
+size 298

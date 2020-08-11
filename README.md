@@ -11,7 +11,14 @@ Can we predict which pair of stock correlations for the next week will have the 
 - https://github.com/robertmartin8/PyPortfolioOpt
 - IEX ... IEX offers StockTwits sentiment data.
 
-# Todo 
+
+# Data
+- Large data files are stored with GIT lfs
+- TO track new files
+`git lfs push --all origin main`
+`git push -u origin main`
+
+# Todo
 - Terraform + s3
 - DVC with s3
 - Convert notebooks to scripts
